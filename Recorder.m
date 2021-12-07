@@ -1,5 +1,4 @@
 clear
-tic
 filename = strcat(date,'_cage_x_mouse_y');
 s = daq.createSession('ni');  
 s.Rate = 400000;
