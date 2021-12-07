@@ -1,6 +1,4 @@
 %% This script is to align breathing with spectrogram, and identify/analyze USV
-%Pressure Transducer sampling rate of 1000Hz
-%Audio sampling rate of 400,000Hz
 
 %% load in breathing data and filtering
 pathtodata = '~/Box/Lab/USV Behavior/XYZ';
