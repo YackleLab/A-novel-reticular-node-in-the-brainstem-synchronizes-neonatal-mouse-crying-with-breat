@@ -1,5 +1,5 @@
 clear
-tic
+
 filename = strcat(date,'_opto_power_hz_sec_');
 s = daq.createSession('ni');  
 s.Rate = 250000;
