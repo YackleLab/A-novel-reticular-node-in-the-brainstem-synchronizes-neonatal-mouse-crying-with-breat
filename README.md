@@ -1,6 +1,6 @@
 # A-novel-reticular-node-in-the-brainstem-synchronizes-neonatal-mouse-crying-with-breathing
 
-These scripts execute analyses in 'A nove reticular node in the brainstem synchronizes neonatal mouse crying with breathing' (Wei et al. 2022). All code is written in MATLAB.
+These scripts execute analyses in 'A novel reticular node in the brainstem synchronizes neonatal mouse crying with breathing' (Wei et al. 2022). All code is written in MATLAB.
 
 The recorder files are used to simultaneously record audio and pressure changes in a custom chamber with a mounted Avisoft Bioacoustics UltraSoundGate CM16/CMPA microphone. The data is digitized using an NIDAQ 6251 board.
 
